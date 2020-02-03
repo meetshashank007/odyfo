@@ -35,4 +35,4 @@ app/webroot/web
 Icon?
 ehthumbs.db
 Thumbs.db
-composer.lock
+# composer.lock
