@@ -1,13 +1,19 @@
 # User specific & automatically generated files #
 #################################################
 /app/Config/database.php
+/app/Vendor/
 /app/tmp
-/lib/Cake/Console/Templates/skel/tmp/
+/app/webroot/assets1
+app/webroot/web2
+app/webroot/web
+/lib
 /plugins
-/vendors
+/vendor
 /build
 /dist
 /tags
+/web
+/_db
 *.mo
 
 # IDE and editor specific files #
@@ -20,6 +26,7 @@
 
 # OS generated files #
 ######################
+.env
 .DS_Store
 .DS_Store?
 ._*
@@ -28,3 +35,4 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+composer.lock

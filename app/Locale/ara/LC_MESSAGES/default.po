@@ -1,0 +1,389 @@
+msgid "Thankyou"
+msgstr "شكرا"
+
+msgid "wants to follow you"
+msgstr "شكرا"
+
+msgid "User bank information added successfully"
+msgstr "تمت إضافة المعلومات البنكية للمستخدم بنجاح"
+
+msgid "Bank name not found, Please send correct bank name."
+msgstr "لم يتم العثور على اسم البنك، الرجاء إرسال اسم البنك الصحيح."
+
+msgid "User bank information has been updated successfully"
+msgstr "تم تحديث معلومات البنك للمستخدم بنجاح"
+
+msgid "Some problem occurred, please try again"
+msgstr "حدث خلل ما، يرجى إعادة المحاولة"
+
+msgid "Either email ID does not exist or Username already exists"
+msgstr "إما أن  البريد الإلكتروني غير موجود ومسجل أو اسم المستخدم موجود من قبل"
+
+msgid "No data available, Please send the data."
+msgstr "لا توجد بيانات، يرجى إرسال البيانات."
+
+msgid "Registration successful"
+msgstr "تم التسجيل بنجاح"
+
+msgid "Phone number already exists"
+msgstr "رقم الهاتف مسجل من قبل"
+
+msgid "Email ID already exists"
+msgstr "البريد الالكتروني مسجل من قبل"
+
+msgid "No data available. Please send the data."
+msgstr "لا توجد بيانات، يرجى إرسال البيانات."
+
+msgid "Verification has been done successfully."
+msgstr "تم التحقق من المستخدم بنجاح."
+
+msgid "Verification code does not exist."
+msgstr "رمز التحقق غير موجود."
+
+msgid "Please enter the correct code."
+msgstr "الرجاء إدخال الرمز الصحيح."
+
+msgid "Phone code does not exist."
+msgstr "رمز الهاتف غير موجود."
+
+
+msgid "login Successful!"
+msgstr "تم تسجيل الدخول بنجاح!"
+
+msgid "Please check your SMS and verify your Phone Number."
+msgstr "يرجى الاطلاع على  الSMS الخاص بك والتحقق من رقم الهاتف الخاص بك."
+
+msgid "Please check your email account and verify your email ID."
+msgstr "يرجى الاطلاع على حساب بريدك الإلكتروني والتحقق من معرف بريدك الإلكتروني."
+
+msgid "Wrong password, please try again."
+msgstr "كلمة مرور غير صحيحة، يرجى إعادة المحاولة."
+
+msgid "Username/Email doesn’t exist."
+msgstr "اسم المستخدم / البريد الإلكتروني غير موجود."
+
+msgid "User profile created successfully."
+msgstr "تم إنشاء الملف الشخصي للمستخدم بنجاح."
+
+
+msgid "Username is already being used by another user."
+msgstr "اسم المستخدم مسجل من قبل مستخدم آخر."
+
+msgid "User Profile edited successfully."
+msgstr "تم تعديل الملف الشخصي للمستخدم بنجاح."
+
+msgid "This username already exists"
+msgstr "اسم المستخدم هذا مسجل من قبل"
+
+msgid "Email ID does not exist."
+msgstr "البريد الإلكتروني غير مسجل."
+
+msgid "User IBAN number added successfully"
+msgstr "تمت إضافة رقم الIBAN للمستخدم بنجاح"
+
+
+
+msgid "Either email ID does not exist or User name already exists"
+msgstr "إما أن  البريد الإلكتروني غير موجود ومسجل أو اسم المستخدم موجود من قبل"
+
+msgid "User bank name added successfully"
+msgstr "تمت إضافة اسم البنك بنجاح"
+
+msgid "No new notifications"
+msgstr "لا توجد اشعارات جديدة"
+
+msgid "User email ID does not exist."
+msgstr "البريد الاكتروني للمستخدم غير موجود"
+
+msgid "Successfully registered through Facebook"
+msgstr "سجلت بنجاح من خلال الفيسبوك"
+
+msgid "This phone number already exists"
+msgstr "رقم الهاتف هذا مسجل من قبل"
+
+msgid "You have already registered"
+msgstr "تم التسجيل من قبل"
+
+msgid "You can login"
+msgstr "يمكنك تسجيل الدخول"
+
+
+
+msgid "Please register first"
+msgstr "يرجى التسجيل اولا"
+
+msgid "Successfully registered through Twitter"
+msgstr "تم التسجيل بنجاح خلال تويتر"
+
+msgid "This email ID does not exist. Please Enter the correct email ID."
+msgstr "لبريد الإلكتروني هذا غير موجود. الرجاء إدخال البريد الإلكتروني الصحيح."
+
+msgid "A new password has been sent to your email address. Please use the new password to login"
+msgstr "تم إرسال كلمة مرور جديدة إلى عنوان بريدك الإلكتروني. الرجاء استخدام كلمة المرور الجديدة لتسجيل الدخول"
+
+
+msgid "Old password is wrong. Please enter the correct password."
+msgstr "كلمة المرور القديمة غير صحيحة. الرجاء إدخال كلمة المرور الصحيحة."
+
+msgid "Password has been changed successfully. Please use the new password to login"
+msgstr "تم تغيير كلمة المرور بنجاح. الرجاء استخدام كلمة المرور الجديدة لتسجيل الدخول"
+
+msgid "Your email ID has been changed successfully"
+msgstr "تم تغيير  بريدك الإلكتروني بنجاح"
+
+msgid "App password created successfully"
+msgstr "تم إنشاء كلمة مرور التطبيق بنجاح"
+
+
+msgid "IBAN number has been saved successfully"
+msgstr "تم حفظ رقم الIBAN بنجاح"
+
+msgid "User ID does not exist"
+msgstr "معرف المستخدم غير موجود"
+
+msgid "Your IBAN number has been updated successfully"
+msgstr "تم تحديث رقم الIBAN بنجاح"
+
+msgid "IBAN does not exist"
+msgstr "رقم الIBAN غير موجود"
+
+
+msgid "Request has been sent successfully"
+msgstr "تم إرسال الطلب بنجاح"
+
+msgid "This user is already in the Friends list"
+msgstr "هذا المستخدم موجود من قبل في قائمة الأصدقاء"
+
+msgid "Friend email ID does not exist"
+msgstr "البريد الإلكتروني لصديقك غير موجود"
+
+msgid "Request has been accepted"
+msgstr "تم قبول الطلب"
+
+msgid "Request ID does not exist"
+msgstr "معرف الطلب غير موجود"
+
+msgid "Request Declined"
+msgstr "تم رفض الطلب"
+
+msgid "Request has been deleted"
+msgstr "تم حذف الطلب"
+
+msgid "Request sent successfully to friend"
+msgstr "تم إرسال الطلب بنجاح إلى صديق"
+
+msgid "Received Notifications List"
+msgstr "ليس لديك أي إشعارات"
+
+msgid "Did not find any friend"
+msgstr "لم يتم العثور على أي صديق"
+
+msgid "No users"
+msgstr "لا يوجد مستخدمين"
+
+msgid "Number of friends"
+msgstr "عدد الأصدقاء"
+
+msgid "You do not have any friends added"
+msgstr "ليس لديك أي أصدقاء تمت إضافتهم"
+
+
+
+
+msgid "Successfully sent request to friend to pay the amount"
+msgstr "تم إرسال طلب الدفع إلى الصديق بنجاح"
+
+msgid "Friend email ID does not exist"
+msgstr "البريد الإلكتروني للصديق غير موجود"
+
+msgid "Request accepted"
+msgstr "تم قبول الطلب"
+
+msgid "Request declined"
+msgstr "تم رفض الطلب"
+
+msgid "Already accepted request"
+msgstr "تم قبول الطلب من قبل"
+
+msgid "Already declined request"
+msgstr "تم رفض الطلب من قبل"
+
+msgid "Status does not exist"
+msgstr "الحالة غير موجودة"
+
+msgid "Sender ID does not exist"
+msgstr "هوية المرسل غير موجود"
+
+msgid "Payment ID does not exist"
+msgstr "هوية الدفع غير موجود"
+
+msgid "Account details"
+msgstr "معلومات الحساب"
+
+msgid "Amount received details"
+msgstr "معلومات المبلغ المستلم"
+
+msgid "Contact user list"
+msgstr "قائمة المستخدمين"
+
+msgid "Your query has been sent successfully to admin. We will get back to you as soon as possible"
+msgstr "تم إرسال الطلب بنجاح إلى المراقبة، سوف نعود اليكم في أقرب وقت ممكن"
+
+msgid "Link has been shared successfully"
+msgstr "تمت ارسال الرابط بنجاح"
+
+msgid "Please enter a correct number"
+msgstr "الرجاء إدخال رقم صحيح"
+
+msgid "Request sent successfully to user to pay for amount"
+msgstr "تم إرسال الطلب بنجاح إلى المستخدم لدفع المبلغ"
+
+msgid "User details"
+msgstr "بيانات المستخدم"
+
+msgid "User has been unfriended"
+msgstr "تم الغاء الصداقة مع المستخدم"
+
+msgid "This request ID does not exist"
+msgstr "هوية الطلب هذا غير موجود"
+
+msgid "User blocked"
+msgstr "تم حظر المستخدم"
+
+msgid "Unblocked successful"
+msgstr "تم الغاء الحظر"
+
+msgid "Blocked ID does not exist"
+msgstr "هوية المحظور غير موجوده"
+
+msgid "Notifications on"
+msgstr "تم تشغيل الاشعارات"
+
+msgid "Notifications off"
+msgstr "تم الغاء الاشعارات"
+
+msgid "Notifications already on"
+msgstr "الاشعارات مفعلة من قبل"
+
+msgid "Notifications already off"
+msgstr "الاشعارات موقوفة من قبل"
+
+msgid "Blocked user list"
+msgstr "قائمة المستخدمين المحظورين"
+
+msgid "No blocked users"
+msgstr "ليس هناك مستخدمين محظورون"
+
+msgid "Resend pending request"
+msgstr "إعادة إرسال طلب الدفع"
+
+msgid "Already accepted requests"
+msgstr "الطلبات المقبولة"
+
+msgid "Pending request details"
+msgstr "تفاصيل الطلب المعلق"
+
+msgid "No pending requests"
+msgstr "لا توجد طلبات معلقة"
+
+msgid "Pending payment request details"
+msgstr "تفاصيل طلب الدفع المعلقة"
+
+msgid "You do not have any notifications"
+msgstr "ليست لديك أية إشعارات"
+
+msgid "Request has been resent"
+msgstr "تمت إعادة إرسال طلب الدفع"
+
+msgid "Request has been deleted successfully"
+msgstr "تم حذف طلب الدفع"
+
+msgid "This request has  already been accepted. So you can not delete it"
+msgstr "تم قبول هذا الطلب من قبل. لذلك لا يمكنك حذفه"
+
+msgid "This request does not exist"
+msgstr "هذا الطلب غير موجود"
+
+msgid "You have been logged out"
+msgstr "لقد تم تسجيل خروجك"
+
+msgid "Bank details"
+msgstr "معلومات البنك"
+
+msgid "Your message has been sent successfully"
+msgstr "تم ارسال رسالتك بنجاح"
+
+msgid "Please enter a correct number"
+msgstr "الرجاء إدخال رقم صحيح"
+
+msgid "Receiver does not have a home address, receiver must add address to receive transfers"
+msgstr "المتلقي ليس لديه عنوان، يجب على المتلقي إضافة عنوان لتلقي التحويلات"
+
+msgid "Receiver does not have a bank name added"
+msgstr "المستلم ليس لديه  اسم بنك مضاف"
+
+msgid "Receiver does not have a bank address"
+msgstr "لا يوجد لدى المستلم عنوان بنك"
+
+msgid "Receiver does not have IBAN number, receiver must add IBAN number to receive transfers"
+msgstr "المستخدم ليس لديه رقم IBAN، يجب على المتلقي إضافة رقم IBAN لتلقي التحويلات"
+
+msgid "You have already paid 100KD for today, maximum transfer amount is 100KD per day"
+msgstr "لقد دفعت بالفعل 100KD  لهذا اليوم، الحد الأقصى لمبلغ التحويل هو 100KD يوميا"
+
+msgid "Receiver does not have a home address, receiver must add address to receive transfers"
+msgstr "المتلقي ليس لديه عنوان، يجب على المتلقي إضافة عنوان لتلقي التحويلات"
+
+msgid "You can not do more than three transactions per day"
+msgstr "لا يمكنك إجراء أكثر من ثلاث معاملات في اليوم"
+
+
+msgid "Receiver email ID does not exist"
+msgstr "البريد الإلكتروني للمستلم غير موجود"
+
+msgid "Sender email ID does not exist"
+msgstr "البريد الإلكتروني للمرسل غير موجود"
+
+msgid "Transferring amounts is currently limited with a minimum of 1KD and a maximum of 100KD, please choose a different amount"
+msgstr "الحد الأدنى  لتحويل المبالغ هو 1KD والحد الأقصى 100KD، يرجى اختيار مبلغ مختلف"
+
+msgid "Payment ID does not match"
+msgstr "رقم العملية غير مطابق"
+
+msgid "Payment in process"
+msgstr "يتم التحويل الان"
+
+msgid "Payment in success"
+msgstr "الدفع بنجاح"
+
+msgid "Payment has been declined"
+msgstr "تم رفض العملية"
+
+msgid "Payment stuck in traffic"
+msgstr "العملية معلقة الان"
+
+msgid "This payment does not exist. Please send correct payment ID"
+msgstr "هذه العملية غير موجودة. الرجاء إرسال رقم العملية الصحيح"
+
+
+
+
+msgid "Payment has been declined"
+msgstr "تم رفض العملية"
+
+msgid "Payment stuck in traffic"
+msgstr "العملية معلقة الان"
+
+msgid "This payment does not exist. Please send correct payment ID"
+msgstr "هذه العملية غير موجودة. الرجاء إرسال رقم العملية الصحيح"
+
+msgid "You have received a friendship request from @ username"
+msgstr "لقد حصلت على طلب صداقة من @اسم المستخدم"
+
+msgid "You have sent a friend request to @ Username"
+msgstr "لقد أرسلت طلب صداقة إلى @اسم المستخدم"
+
+
+
+
+

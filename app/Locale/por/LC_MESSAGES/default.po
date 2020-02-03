@@ -1,0 +1,18 @@
+msgid "wants to follow you"
+msgstr "quer te seguir"
+
+msgid "is following you"
+msgstr "está seguindo você"
+
+msgid "has mentioned you in a comment"
+msgstr "mencionou você em um comentário"
+
+msgid "challenged you for Batal"
+msgstr "desafiou você por Batal"
+
+msgid "accepted your Batal request"
+msgstr "aceitou seu pedido de Batal"
+
+
+msgid "has commented on your music"
+msgstr "comentou sua música"
