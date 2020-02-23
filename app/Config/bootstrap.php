@@ -119,6 +119,6 @@ define('ALLOWED_IMAGE_TYPES', serialize(array('image/jpg','image/jpeg', 'image/p
 //define('STRIPE_SECRET_KEY','sk_test_QIjcJNyPsYSoAc8qyaUY8pp700qPeqY4jz');//testing
 //define('STRIPE_SECRET_KEY','sk_test_nyUOWFSPpYkoTOh4FyZEys8O00ArqQ3pne');//testing
 
-//define('STRIPE_SECRET_KEY','sk_test_vDkUKwSMeq89XC7Y6prLPKJG00NFIfG9k1');
+//define('STRIPE_SECRET_KEY','sk_test_vDkUKwSMeq89XC7Y6prLPKJG00NFIfG9k1')
 
-define('STRIPE_SECRET_KEY','sk_live_wJ0u6Hx7D22crI1ZRQvxXz5300DmLoOy2t');//live
+define('STRIPE_SECRET_KEY','sk_test_Xn21n8r1NuWrK4wC0fOBqvTu00uH2lmf3r');//devkey
